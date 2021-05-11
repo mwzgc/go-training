@@ -9,8 +9,8 @@ import (
 	"time"
 )
 
-var count = uint32(0)      // 俩大爷已经遇见了多少次
-var total = uint32(100000) // 总共需要遇见多少次
+var count = uint32(0)       // 俩大爷已经遇见了多少次
+var total = uint32(100_000) // 总共需要遇见多少次
 var z0 = "吃了没，您吶?"
 var z3 = "嗨！吃饱了溜溜弯儿。"
 var z5 = "回头去给老太太请安！"
